@@ -1,0 +1,7 @@
+C:\Users\besik\source\repos\coderbyte\coderbyte\bin\Debug\coderbyte.exe.config
+C:\Users\besik\source\repos\coderbyte\coderbyte\bin\Debug\coderbyte.exe
+C:\Users\besik\source\repos\coderbyte\coderbyte\bin\Debug\coderbyte.pdb
+C:\Users\besik\source\repos\coderbyte\coderbyte\obj\Debug\coderbyte.csprojAssemblyReference.cache
+C:\Users\besik\source\repos\coderbyte\coderbyte\obj\Debug\coderbyte.csproj.CoreCompileInputs.cache
+C:\Users\besik\source\repos\coderbyte\coderbyte\obj\Debug\coderbyte.exe
+C:\Users\besik\source\repos\coderbyte\coderbyte\obj\Debug\coderbyte.pdb
